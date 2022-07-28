@@ -15,7 +15,7 @@
 	},
 	"hostRules": [
 		{
-			"matchHost": "https://maven.pkg.github.com/sultan-qa/_",
+			"matchHost": "https://maven.pkg.github.com/MuhammadAEws/_",
 			"hostType": "maven",
 			"userName": "muhammadaews",
 			"encrypted": {
